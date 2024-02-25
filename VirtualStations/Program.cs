@@ -33,6 +33,7 @@ namespace VirtualStations
 
     public class Route
     {
+        private string _directed;
         private Train _train;
     }
 
